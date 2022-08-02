@@ -1,5 +1,5 @@
 import { Component, VERSION } from '@angular/core';
-import AOS from 'aos';
+import  * as AOS from 'aos';
 
 @Component({
   selector: 'my-app',
